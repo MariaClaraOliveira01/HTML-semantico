@@ -31,4 +31,15 @@ margin-bottom: 20px;
     margin-top: 20px;
     
 }
+.conteudo{
+    display:flex
+    flex:1;
+    gp:20PX;
+}
+.secaoprincipal{
+display: flex;
+flex:2;
+gap:20px
+}
+
     
